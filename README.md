@@ -4,7 +4,7 @@ macOS-утилита для быстрого создания файлов и п
 
 ![macOS 13+](https://img.shields.io/badge/macOS-13%2B-blue)
 ![Arch](https://img.shields.io/badge/arch-arm64%20%7C%20x86__64-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Custom-important)
 ![Version](https://img.shields.io/badge/version-2.2.0-orange)
 
 ## Возможности
@@ -125,4 +125,7 @@ xcrun stapler staple build/FilePlus.dmg
 
 ## Лицензия
 
-MIT — см. [LICENSE](LICENSE).
+Своя лицензия — см. [LICENSE](LICENSE) (на русском).
+
+Можно использовать и бесплатно распространять с указанием автора.  
+**Продавать Программу, сборки, форки или включать в платные продукты без письменного согласия автора запрещено.**

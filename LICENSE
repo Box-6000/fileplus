@@ -1,17 +1,44 @@
-MIT License
+Лицензионное соглашение «Файл+» (FilePlus)
 
-Copyright (c) 2026 Konstantin Dzon
+Copyright (c) 2026 Константин Дзон (Box-6000)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Разрешение на использование
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Настоящее программное обеспечение (далее — «Программа»), включая исходный код,
+документацию и сопутствующие материалы, предоставляется вам на следующих условиях.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+Вы можете:
+- использовать Программу в личных и некоммерческих целях;
+- изучать и изменять исходный код для собственного использования;
+- распространять Программу бесплатно при сохранении настоящего текста лицензии
+  и указания авторства.
+
+2. Запрет продажи без согласия
+
+ЗАПРЕЩАЕТСЯ продавать, сдавать в аренду, лицензировать за плату, включать
+в платные продукты или иным образом извлекать коммерческую выгоду из Программы
+(в исходном или изменённом виде), а также из её производных работ,
+БЕЗ ПРЕДВАРИТЕЛЬНОГО ПИСЬМЕННОГО СОГЛАСИЯ автора (Константин Дзон / Box-6000).
+
+Запрещается также:
+- продавать доступ к Программе;
+- продавать сборки, DMG, установщики или форки Программы;
+- использовать Программу как основу платного продукта без согласия автора.
+
+3. Сохранение уведомлений
+
+При распространении копий или модификаций необходимо сохранять:
+- настоящее лицензионное соглашение;
+- указание авторства: Константин Дзон (Box-6000).
+
+4. Отказ от гарантий
+
+ПРОГРАММА ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ ИЛИ
+ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ГАРАНТИЯМИ ТОВАРНОЙ ПРИГОДНОСТИ,
+ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ И НЕНАРУШЕНИЯ ПРАВ. АВТОР НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ
+ЗА ЛЮБЫЕ УБЫТКИ, ВОЗНИКШИЕ В СВЯЗИ С ИСПОЛЬЗОВАНИЕМ ПРОГРАММЫ.
+
+5. Контакты по коммерческому использованию
+
+По вопросам продажи, коммерческого лицензирования и сотрудничества обращайтесь
+к автору через профиль GitHub: https://github.com/Box-6000
