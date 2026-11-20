@@ -37,7 +37,7 @@ macOS-утилита для быстрого создания файлов и п
 ### Из исходников
 
 ```bash
-git clone https://github.com/USER/fileplus.git
+git clone https://github.com/Box-6000/fileplus.git
 cd fileplus
 ./Scripts/build.sh
 ./Scripts/install.sh
